@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this lab, I learned how to set up Active Directory on my home computer using Oracle Virtual Box.  I went through the process of installing both a Windows 10 client VM and a Server 2019 domain controller VM.  I then installed Active Directory domain services and created a dedicated domain, organizational unit, and administrator account.  Next, I installed and configured the network settings of both VMs to mimic an office environment and ran a PowerShell script to create approximately a thousand users.  At this point, I was able to successfully log on to the Windows 10 client through the domain using the usernames and passwords I added to the server. 
+In this lab, I learned how to setup Active Directory on my home computer using Oracle Virtual Box.  I went through the process of installing both a Windows 10 client VM and a Server 2019 domain controller VM.  I then installed Active Directory domain services and created a dedicated domain, organizational unit, and administrator account.  Next, I installed and configured the network settings of both VMs to mimic an office environment and ran a PowerShell script to create approximately a thousand users.  At this point, I was able to successfully log on to the Windows 10 client through the domain using the usernames and passwords I added to the server. 
 <br />
 
 

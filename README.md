@@ -19,8 +19,8 @@ In this lab, I learned how to set up Active Directory on my home computer using 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Oracle VM VirtualBox: <br/>
+<img src="https://imgur.com/XCz0aYr"/>
 <br />
 <br />
 Select the disk:  <br/>

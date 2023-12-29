@@ -20,11 +20,11 @@ In this lab, I learned how to set up Active Directory on my home computer using 
 
 <p align="center">
 Oracle VM VirtualBox: <br/>
-<img src="https://imgur.com/XCz0aYr"/>
+<img src="https://i.imgur.com/XCz0aYr.jpg"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Server Roles:  <br/>
+<img src="https://i.imgur.com/epN8Wl0.jpg"/>
 <br />
 <br />
 Enter the number of passes: <br/>

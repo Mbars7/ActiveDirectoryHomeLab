@@ -23,8 +23,8 @@ Oracle VM VirtualBox: <br/>
 <img src="https://i.imgur.com/XCz0aYr.jpg"/>
 <br />
 <br />
-Install Server Roles:  <br/>
-<img src="https://i.imgur.com/epN8Wl0.jpg"/>
+Installed Server Roles:  <br/>
+<img src="https://i.imgur.com/GZimDhw.jpg"/>
 <br />
 <br />
 Enter the number of passes: <br/>

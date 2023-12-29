@@ -15,7 +15,7 @@ In this lab, I learned how to set up Active Directory on my home computer using 
 
 - <b>Windows 10</b> (22H2)
 - <b>Server 2019</b> 
-- 
+
 <h2>Program walk-through:</h2>
 
 <p align="center">

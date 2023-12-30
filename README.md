@@ -20,31 +20,31 @@ In this lab, I learned how to set up Active Directory on my home computer using 
 
 <p align="center">
 Oracle VM VirtualBox: <br/>
-<img src="https://i.imgur.com/XCz0aYr.jpg"/>
+<img src="https://i.imgur.com/AL0Ssgs.jpg"/>
 <br />
 <br />
 Installed Server Roles:  <br/>
-<img src="https://i.imgur.com/GZimDhw.jpg"/>
+<img src="https://i.imgur.com/C7cVUsC.jpg"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+IP Settings: <br/>
+<img src="https://i.imgur.com/zcGL1Q5.jpg"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+DHCP Setup:  <br/>
+<img src="https://i.imgur.com/rVYLS25.jpg"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Active Directory Users:  <br/>
+<img src="https://i.imgur.com/xIVkb0N.jpg"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Active Directory Computers:  <br/>
+<img src="https://i.imgur.com/zEnop5P.jpg"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Client Login:  <br/>
+<img src="https://i.imgur.com/jQGki5m.jpg"/>
 </p>
 
 <!--

@@ -52,7 +52,7 @@ Client Login:  <br/>
 <img src="https://i.imgur.com/jQGki5m.jpg"/>
 </p>
 
-Credit for tutorial: [Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI&ab_channel=JoshMadakor)
+Credit for Home Lab: [Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI&ab_channel=JoshMadakor)
 
 <!--
  ```diff
